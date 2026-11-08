@@ -1,59 +1,48 @@
-### Hi there, I'm İsmail Ünal! 👋
-
-I am a **Senior Software Architect** with **15+ years of experience** in designing high-performance systems, including ERP, IoT, and Fintech solutions. throughout my career, I have managed large-scale government projects serving millions of users and handling high-volume transactions.
-
-Currently, I'm working as a **Senior Software Developer** at **Akınsoft Software LLC**.
-
----
-
-### 🚀 Technical Skills
-
-* **Core:** .NET Core, C#, PHP (Laravel/CodeIgniter), Node.js
-* **Cloud & DevOps:** AWS, Azure, Google Cloud, Docker, Kubernetes, CI/CD
-* **Database:** MSSQL, PostgreSQL, MongoDB, Redis, Firebase
-* **Mobile:** Flutter, React Native, Kotlin
-* **Frontend:** Angular, React, Vue.js, JavaScript/TypeScript
-
----
-
-### 🏆 Career Highlights & Key Projects
-
-* **Public Security & Smart City:**
-    * Developed **Local Pandemic Monitoring System** serving **2M+ Citizens** and tracking 200K+ isolations during the pandemic.
-    * Engineered **Electronic Traffic Control Systems** (Speed Corridors, Red Light Violations) for the Police Department.
-    * Built **Offline Payment Systems** handling $1M+ monthly volume.
-
-* **Large Scale Management:**
-    * **Immigrant Border Gate Transition System:** Managed data for 5M+ customers.
-    * **Humanitarian Aid Tracking:** System for 600K+ survivors.
-
-* **Architecture:**
-    * Expertise in **Microservices**, **Cloud Architecture**, and **High-Volume Transaction** handling.
-
----
-
-### 💼 Professional Experience
-
-- **Senior Software Developer** @ Akınsoft Software LLC *(Present)*
-- **Software Manager** @ Gaziantep Metropolitan Municipality
-- **Lead Developer** @ Omnicourse
-- **Senior Software Engineer** @ Gaziantep Police Department
-- **Senior Software Engineer** @ Limonist ARGE
-- **Senior Software Developer** @ CounselHero
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=github-username&show_icons=true&theme=gotham&hide_border=true" alt="İsmail's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-username&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&section=header&text=%C4%B0smail%20%C3%9Cnal&fontColor=F0F6FC&fontSize=46&fontAlignY=42&desc=Senior%20Software%20Developer&descAlignY=68&descSize=18" width="100%" alt="İsmail Ünal – Senior Software Developer" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=620&lines=.NET+Core+microservices+%C2%B7+Laravel+APIs+%C2%B7+Flutter+apps;Building+web%2C+mobile+and+backend+systems+since+2012;Founder+of+Miyuva+%F0%9F%90%BE" alt="Typing intro" />
+</p>
 
-### 📫 Connect with Me
+<p align="center">
+  <a href="https://ismailunal.com"><img src="https://img.shields.io/badge/Website-ismailunal.com-1F3A5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://linkedin.com/in/ismlunal"><img src="https://img.shields.io/badge/LinkedIn-ismlunal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:iunal@ismailunal.com"><img src="https://img.shields.io/badge/Email-iunal@ismailunal.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-* 🌐 **Website:** [ismailunal.com](https://ismailunal.com)
-* 👔 **LinkedIn:** [linkedin.com/in/ismlunal](https://linkedin.com/in/ismlunal)
-* 📧 **Email:** admin@ismailunal.net
+### 👨‍💻 About me
+
+- 🔭 Focused on **.NET Core microservices**, **Laravel APIs** and **Flutter apps**
+- 🏗️ Comfortable across the whole stack: architecture, backend, mobile and DevOps
+- 🏛️ Led a 9–15 person software team at **Gaziantep Metropolitan Municipality**, building public-service systems for a city of 2.2 million
+- 🐾 Founder of **[Miyuva](https://miyuva.app)**, an AI-powered app for pet owners
+- 🤖 Using AI-assisted development (LLMs, RAG, Claude Code, Cursor) in my daily work
+- 💬 Ask me about microservices, ERP, payment systems and real-time apps
+- 📍 Based in Mersin, Türkiye
+
+### 🛠️ Tech stack
+
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,nodejs" alt="Backend" />
+
+**Mobile & Web**<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,ts" alt="Mobile and Web" />
+
+**Data & Messaging**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq,kafka,elasticsearch" alt="Data and Messaging" />
+
+**DevOps & Cloud**<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,git" alt="DevOps and Cloud" />
+
+### 📈 GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ismlunal&hide_current_streak=true&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=9CA3AF&dates=9CA3AF">
+    <img src="https://streak-stats.demolab.com/?user=ismlunal&hide_current_streak=true&theme=transparent&hide_border=true&ring=1F3A5F&fire=1F3A5F&currStreakNum=1F3A5F&sideNums=1F3A5F&sideLabels=6B7280&dates=6B7280" alt="GitHub contributions" />
+  </picture>
+</p>
+
+<p align="center"><sub>Most of my work lives in private repositories, so the contribution graph says more than the public repo list.</sub></p>
