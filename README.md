@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://ismailunal.com"><img src="https://img.shields.io/badge/Website-ismailunal.com-1F3A5F?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://linkedin.com/in/ismlunal"><img src="https://img.shields.io/badge/LinkedIn-ismlunal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:iunal@ismailunal.com"><img src="https://img.shields.io/badge/Email-iunal@ismailunal.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:admin@ismailunal.net"><img src="https://img.shields.io/badge/Email-admin@ismailunal.net-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ### 👨‍💻 About me
