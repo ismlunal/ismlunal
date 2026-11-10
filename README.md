@@ -16,7 +16,7 @@
 
 - 🔭 Focused on **.NET Core microservices**, **Laravel APIs** and **Flutter apps**
 - 🏗️ Comfortable across the whole stack: architecture, backend, mobile and DevOps
-- 🏛️ Led a 9–15 person software team at **Gaziantep Metropolitan Municipality**, building public-service systems for a city of 2.2 million
+- 🏛️ Led a 25+ person software team at **Gaziantep Metropolitan Municipality**, building public-service systems for a city of 2.2 million
 - 🐾 Founder of **[Miyuva](https://miyuva.app)**, an AI-powered app for pet owners
 - 🤖 Using AI-assisted development (LLMs, RAG, Claude Code, Cursor) in my daily work
 - 💬 Ask me about microservices, ERP, payment systems and real-time apps
